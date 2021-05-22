@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&display=swap');
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +7,46 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+    background: #221b3a;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+
+}
+
+body > #root > div {
+  height: 100vh;
+}
+
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #221a3c;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #53477d;
+  border-radius: 4px;
+  height: 30px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
