@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/mm-cosmos/static/css/main.287ab1cf.chunk.css",
+    "main.js": "/mm-cosmos/static/js/main.d096eb42.chunk.js",
+    "main.js.map": "/mm-cosmos/static/js/main.d096eb42.chunk.js.map",
+    "runtime-main.js": "/mm-cosmos/static/js/runtime-main.8d1d9898.js",
+    "runtime-main.js.map": "/mm-cosmos/static/js/runtime-main.8d1d9898.js.map",
+    "static/js/2.3881b4a8.chunk.js": "/mm-cosmos/static/js/2.3881b4a8.chunk.js",
+    "static/js/2.3881b4a8.chunk.js.map": "/mm-cosmos/static/js/2.3881b4a8.chunk.js.map",
+    "static/js/3.dd55cf47.chunk.js": "/mm-cosmos/static/js/3.dd55cf47.chunk.js",
+    "static/js/3.dd55cf47.chunk.js.map": "/mm-cosmos/static/js/3.dd55cf47.chunk.js.map",
+    "index.html": "/mm-cosmos/index.html",
+    "static/css/main.287ab1cf.chunk.css.map": "/mm-cosmos/static/css/main.287ab1cf.chunk.css.map",
+    "static/js/2.3881b4a8.chunk.js.LICENSE.txt": "/mm-cosmos/static/js/2.3881b4a8.chunk.js.LICENSE.txt",
+    "static/media/Capsules.488256f3.png": "/mm-cosmos/static/media/Capsules.488256f3.png",
+    "static/media/Crew.3cff2cc2.png": "/mm-cosmos/static/media/Crew.3cff2cc2.png",
+    "static/media/Planet.3fb29cc0.png": "/mm-cosmos/static/media/Planet.3fb29cc0.png",
+    "static/media/Rockets.cc2a885a.png": "/mm-cosmos/static/media/Rockets.cc2a885a.png",
+    "static/media/Starlink.da38db64.png": "/mm-cosmos/static/media/Starlink.da38db64.png",
+    "static/media/arrowDown.975c5406.svg": "/mm-cosmos/static/media/arrowDown.975c5406.svg",
+    "static/media/arrowUp.a7a3814b.svg": "/mm-cosmos/static/media/arrowUp.a7a3814b.svg",
+    "static/media/arrows.f5148926.svg": "/mm-cosmos/static/media/arrows.f5148926.svg",
+    "static/media/landingGear.5a568f7c.svg": "/mm-cosmos/static/media/landingGear.5a568f7c.svg",
+    "static/media/leftCloud.558330cc.svg": "/mm-cosmos/static/media/leftCloud.558330cc.svg",
+    "static/media/logo1.4af4f39e.svg": "/mm-cosmos/static/media/logo1.4af4f39e.svg",
+    "static/media/logo2.90816553.svg": "/mm-cosmos/static/media/logo2.90816553.svg",
+    "static/media/rightCloud.b185472f.svg": "/mm-cosmos/static/media/rightCloud.b185472f.svg",
+    "static/media/x.59dc4710.svg": "/mm-cosmos/static/media/x.59dc4710.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d1d9898.js",
+    "static/js/2.3881b4a8.chunk.js",
+    "static/css/main.287ab1cf.chunk.css",
+    "static/js/main.d096eb42.chunk.js"
+  ]
+}
