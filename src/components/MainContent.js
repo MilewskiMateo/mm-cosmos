@@ -56,7 +56,7 @@ function MainContent() {
       </LaunchButton>
       <MyFotter>
         <div>Copyright © Usertive & SpaceX API</div>
-        <div>Recruiment Task / Summer 2021</div>
+        <div>Recruiment dawdawdaw Task / Summer 2021</div>
       </MyFotter>
     </div>
   );
