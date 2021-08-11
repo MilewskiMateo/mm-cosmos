@@ -55,7 +55,7 @@ function MainContent() {
         Launch Rocket!
       </LaunchButton>
       <MyFotter>
-        <div>Zmiena kogoś innego</div>
+        <div>Nowy z nowym</div>
         <div>Zmiana kogoś innego</div>
       </MyFotter>
     </div>
