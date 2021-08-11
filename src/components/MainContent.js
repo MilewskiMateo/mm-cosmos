@@ -55,8 +55,8 @@ function MainContent() {
         Launch Rocket!
       </LaunchButton>
       <MyFotter>
-        <div>Copyright © Usertive & SpaceX API</div>
-        <div>Kompletnie nowa zmiana wow</div>
+        <div>Zmiena kogoś innego</div>
+        <div>Zmiana kogoś innego</div>
       </MyFotter>
     </div>
   );
