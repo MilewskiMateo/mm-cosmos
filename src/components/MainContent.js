@@ -56,7 +56,7 @@ function MainContent() {
       </LaunchButton>
       <MyFotter>
         <div>Copyright © Usertive & SpaceX API</div>
-        <div>testowa zmiana</div>
+        <div>Kompletnie nowa zmiana wow</div>
       </MyFotter>
     </div>
   );
